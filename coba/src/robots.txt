@@ -1,4 +1,0 @@
-Sitemap: https://www.emptywork.my.id/sitemap.xml
-
-User-agent: *
-Disallow:
